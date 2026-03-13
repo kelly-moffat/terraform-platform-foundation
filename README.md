@@ -1,1 +1,1 @@
-# terraform-aks-platform
+# terraform-platform-foundation
